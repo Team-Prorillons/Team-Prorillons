@@ -3,8 +3,6 @@
 
 - 🔭 We're currently working on **Identifying Crime Prone Areas**
 
-- 🌱 We're currently learning **TensorFlow, Keras**
-
 - 👯 We're looking to collaborate on **Data Analytics Projects**
 
 - 💬 Ask us about **Data Science, Neural Networks, Web Development**
