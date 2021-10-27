@@ -9,7 +9,7 @@
 
 - 📫 How to reach us **prorillons@gmail.com**
 
-- ⚡ Fun fact **We think we are funny XD**
+- ⚡ Fun fact **We think we are funny xD**
 
 ### Tools and Technologies:
 <p align="left"> 
@@ -23,4 +23,8 @@
     <img src="https://user-images.githubusercontent.com/50221806/86498222-c4c12800-bd39-11ea-9709-160ad4ba63e1.png" alt="python" width="40" height="40"/> 
     <img src="https://cdn-images-1.medium.com/max/200/1*4s68xZ7SUymwwDBn3V97hQ@2x.png" alt="tensorflow" width="40" height="40"/> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvAZBxXHySo1tqwdtCgyzVFDbqwpK3SxFXTVYqavb1uTGjOStZjdWdNG4&amp;s=10"  alt="tensorflow" width="40" height="40"/>
+   <img src="https://miro.medium.com/max/629/1*_HoMKjrWahRiI-JmwYW6zg.png" "alt="scikit learn logo"  width="50" height="50" >
+ <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" "alt="seaborn"  width="40" height="40"> 
+ <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" "alt="matplotlib"  width="40" height="40" > 
+ <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" "alt="matplotlib"  width="40" height="40" > 
 </p>
