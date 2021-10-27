@@ -9,7 +9,7 @@
 
 - 📫 How to reach us **prorillons@gmail.com**
 
-- ⚡ Fun fact **We think we are funny**
+- ⚡ Fun fact **We think we are funny XD**
 
 ### Tools and Technologies:
 <p align="left"> 
